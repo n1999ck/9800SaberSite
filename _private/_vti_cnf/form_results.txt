@@ -1,0 +1,11 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TW|17 Mar 1999 16:43:38 -0000
+vti_author:SR|CSUWEB\\knape_jay
+vti_modifiedby:SR|CSUWEB\\knape_jay
+vti_nexttolasttimemodified:TW|17 Mar 1999 16:43:38 -0000
+vti_timecreated:TR|16 Oct 2003 17:30:14 -0000
+vti_lineageid:SR|{394A5D5A-D82A-47A3-BCCA-14F0B6FC47C1}
+vti_cacheddtm:TX|16 Oct 2003 17:30:14 -0000
+vti_filesize:IR|0
+vti_extenderversion:SR|5.0.2.2623
+vti_backlinkinfo:VX|
